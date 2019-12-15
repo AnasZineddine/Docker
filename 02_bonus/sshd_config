@@ -1,0 +1,11 @@
+Protocol 2
+PORT 22
+PubkeyAuthentication yes
+PasswordAuthentication no
+AllowTcpForwarding no
+X11Forwarding no
+AllowUsers pair
+PrintMotd no
+IgnoreUserKnownHosts yes
+PermitRootLogin no
+PermitEmptyPasswords no
